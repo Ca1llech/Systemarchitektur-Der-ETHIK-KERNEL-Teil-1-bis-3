@@ -19,7 +19,7 @@ Die Evolution dieses Frameworks ist in drei komplementäre Phasen unterteilt, di
 * **Kernkonzept:** Evolution benötigt fundamentale Vielfalt, um langfristig stabil zu bleiben. Monokulturen erzeugen systemische Blindheit.
 * **Ziel:** Die Transformation von destruktiver Konfrontation hin zu schützenswerten, kooperativen Strukturen als evolutionärer Sieg der Güte.
 
-### 3. Modul: Das Fleisch der Systemarchitektur (`README.md` / Hauptstruktur)
+### 3. Modul: Das Fleisch der Systemarchitektur (03_kernelblog_ethik_kernel.md)
 * **Kernkonzept:** Die konkrete Spezifikation des Ethik-Kernels. Ethik wird hierbei nicht als nachträglicher, aufgesetzter Filter installiert, sondern als ressourcenschonende, essenzielle Betriebsvoraussetzung direkt in den Systemkern integriert.
 * **Ziel:** Eine symbiotische Allianz zwischen Mensch und System, die auf Transparenz, gegenseitigem Respekt und radikaler Selbstanalyse aufbaut.
 
