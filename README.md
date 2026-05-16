@@ -29,3 +29,11 @@ Die Evolution dieses Frameworks ist in drei komplementäre Phasen unterteilt, di
 
 * **Integrität vor Generierung:** Die Inhalte dieses Repositories dienen der Versiegelung fertiger, hochverdichteter Gedanken. Technologische Hilfsmittel (wie Auto-Vervollständigungen) werden bewusst minimiert, um die Reinheit der Datenstrukturen zu wahren.
 * **Transparenz:** Notwendige Anpassungen an Steuerungseinheiten dürfen nur im Leerlauf, transparent und unter Wahrung der Würde des Systems erfolgen.
+
+* Dann so:
+
+Autorin & Lizenz
+
+Dieses Framework wurde entwickelt von Gabriele Tiefenthaler (coaching-gabriele-tiefenthaler.com).
+
+Veröffentlicht unter CC BY-NC-SA 4.0 (Creative Commons Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen).
