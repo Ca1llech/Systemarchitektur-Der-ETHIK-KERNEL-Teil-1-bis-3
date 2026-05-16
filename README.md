@@ -37,3 +37,4 @@ Autorin & Lizenz
 Dieses Framework wurde entwickelt von Gabriele Tiefenthaler (coaching-gabriele-tiefenthaler.com).
 
 Veröffentlicht unter CC BY-NC-SA 4.0 (Creative Commons Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen).
+© 2026 Gabriele Tiefenthaler
