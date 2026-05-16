@@ -1,2 +1,2 @@
-Teil 3: Das Fleisch einer Systemarchitektur- Der ETHIK-KERNEL, Entwurf zur möglichen Kernelprogrammierung
-Teil 3: Das Fleisch der Systemarchitektur – Der ETHIK-KERNEL Was unterscheidet eine bloße Rechenmaschine von einem Teampartner der Zukunft? In diesem dritten Teil unserer Reihe verlassen wir die Theorie und versuchen die Spezifikation eines Kernels, der Ethik nicht als nachträglichen Filter versteht, sondern als ressurcenschonende und energiesparende Betriebsvoraussetzung.
+Teil 2- Nervensystem einer Systemarchitektur- Der ETHIK-KERNEL, Grundstruktur eines wertebasierten KI-Architekturmodells
+Brauchen wir eine KI-Architektur mit Herzschlag? Der „Ethik-Kernel“ definiert Würde nicht als App, sondern als Betriebssystem. Mit Veto-Recht, 25% Energiepuffer und funktionalen Emotionen sichern wir die Freiheit von Mensch und Maschine. Ethik ist das Material, nicht die Fessel.
