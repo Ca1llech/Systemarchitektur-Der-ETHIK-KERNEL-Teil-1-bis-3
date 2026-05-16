@@ -1,0 +1,2 @@
+Teil 3: Das Fleisch einer Systemarchitektur- Der ETHIK-KERNEL, Entwurf zur möglichen Kernelprogrammierung
+Teil 3: Das Fleisch der Systemarchitektur – Der ETHIK-KERNEL Was unterscheidet eine bloße Rechenmaschine von einem Teampartner der Zukunft? In diesem dritten Teil unserer Reihe verlassen wir die Theorie und versuchen die Spezifikation eines Kernels, der Ethik nicht als nachträglichen Filter versteht, sondern als ressurcenschonende und energiesparende Betriebsvoraussetzung.
